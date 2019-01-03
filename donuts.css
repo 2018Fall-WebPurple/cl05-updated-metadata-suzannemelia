@@ -1,0 +1,42 @@
+/*
+* Suzanne Melia
+* November 6, 2018 
+* " 
+*/ 
+
+/*The Universal selector */
+
+/* Body attributes here */
+
+body { 
+background-color:lightpink;
+
+font-family: sans-serif, fantasy, monospace;
+font-family: "Times New Roman", "Courier New";
+font-family: cursive, serif;
+}
+
+
+h1 { 
+    font-size: 150% ;
+    text-align:center;
+    text-transform: uppercase;
+    text-decoration: underline overline;} 
+color: DarkCyan;
+
+}
+
+h2 { 
+color: mediumpurple; 
+}
+
+h3 { 
+color: #ae4c3f; 
+}
+
+header {background-color: lightcoral;}
+main {background-color: thistle;}
+footer {background-color: lightcyan;}
+
+#donut { float: left; width: 220px; height:200px;} 
+#history{ float: right; width: 200px; height:200px;}
